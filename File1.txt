@@ -1,1 +1,15 @@
-This is my reverse checking.
+Open CMD
+Copy the folder path and open CMD and cd <paste the path>
+Commands - 
+	1. Git init
+	2. Git add <filename.extention>
+	3. Git commit -m "First Commit"
+	4. git config --global user.email "you@example.com"
+	5. git config --global user.name "Your Name"
+	6. Git commit -m "First Commit"
+	7. Git remote add origin https://github.com/sharmj2/GitExample.git
+	8. Git push origin master
+	9. Git branch
+	10. Create new branch - git checkout -b <new branch name>
+	11. Git checkout master (Switch to master)
+git pull origin master (pull the code into local)
